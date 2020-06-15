@@ -27,3 +27,4 @@ React Native Basic project setup
 - [Online Editor](https://snack.expo.io/)
 - [Setting up the development environment](https://reactnative.dev/docs/environment-setup)
 - [Docs](https://reactnative.dev/docs/)
+- [Publishing to Google Play Store](https://reactnative.dev/docs/signed-apk-android)
