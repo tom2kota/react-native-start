@@ -15,7 +15,12 @@ React Native Basic project setup
 7) check result
 8) stop the bundler => *Ctrl + C*
 
-9) ```npm install --global expo-cli```
+9) alternatively: ```npm install --global expo-cli```
 
 
 -------------------------------
+
+### references:
+
+- [Semantic Versioning Cheatsheet](https://bytearcher.com/goodies/semantic-versioning-cheatsheet/)
+- [Tilde](https://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
