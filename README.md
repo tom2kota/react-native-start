@@ -15,5 +15,7 @@ React Native Basic project setup
 7) check result
 8) stop the bundler => *Ctrl + C*
 
+9) ```npm install --global expo-cli```
+
 
 -------------------------------
