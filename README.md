@@ -23,3 +23,7 @@ React Native Basic project setup
 
 - [Semantic Versioning Cheatsheet](https://bytearcher.com/goodies/semantic-versioning-cheatsheet/)
 - [Tilde](https://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
+- [React Native Directory](https://reactnative.directory/)
+- [Online Editor](https://snack.expo.io/)
+- [Setting up the development environment](https://reactnative.dev/docs/environment-setup)
+- [Docs](https://reactnative.dev/docs/)
