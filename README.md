@@ -1,4 +1,4 @@
-# react-native-start
+# react-native-start 0.6Gb
 React Native Basic project setup
 
 
@@ -7,15 +7,14 @@ React Native Basic project setup
 ## Initial setup
 
 1) clone repo
-2) ```npm i```
+2) ```npm i``` & alternatively: ```npm install --global expo-cli```
 3) npm start and open [localhost](http://localhost:19002/)
 4) connect Mobile device
 5) setup **expo** app from AppStore
 6) select **Tunnel** or **LAN** and scan QR code
-7) check result
+7) check result http://localhost:19002/ & on mobile
 8) stop the bundler => *Ctrl + C*
 
-9) alternatively: ```npm install --global expo-cli```
 
 
 -------------------------------
