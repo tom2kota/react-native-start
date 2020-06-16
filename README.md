@@ -47,15 +47,25 @@ React Native Basic project setup
   - Watchman (with Homebrew)
   - The React Native CLI
   - Xcode
+  - [Java SE Development Kit 14](https://www.oracle.com/java/technologies/javase-jdk14-downloads.html)
+  - Python 
+  - NodeJS
+  - React Native CLI ```npm install -g react-native-cli```
 
 
 
 ```
 react-native --version
 
+npm install -g create-react-native-app
+
 react-native init rn-starter
 
 npx --package react-native-cli react-native
+
+npm start
+
+npm run eject
 
 ```
 
