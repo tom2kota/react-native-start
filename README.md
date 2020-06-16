@@ -1,6 +1,29 @@
 # react-native-start 0.6Gb
 React Native Basic project setup
 
+-------------------------------
+
+## [Installing Expo CLI](https://docs.expo.io/get-started/installation/)
+
+``` 
+npm install -g expo-cli
+
+expo whoami
+
+expo register
+expo login
+
+```
+
+- [fb-watchma(https://www.npmjs.com/package/fb-watchman)
+
+- [Installing on macOS or Linux via Homebrew](https://facebook.github.io/watchman/docs/install/#buildinstall)
+
+## [Create a new app](https://docs.expo.io/get-started/create-a-new-app/)
+
+```
+expo init
+```
 
 -------------------------------
 
