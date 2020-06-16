@@ -37,7 +37,27 @@ React Native Basic project setup
 
 8) stop the bundler => *Ctrl + C*
 
+------------------------------
 
+## Installing Requirements
+
+
+  - Homebrew (install first)
+  - Node (with Homebrew)
+  - Watchman (with Homebrew)
+  - The React Native CLI
+  - Xcode
+
+
+
+```
+react-native --version
+
+react-native init rn-starter
+
+npx --package react-native-cli react-native
+
+```
 
 -------------------------------
 
@@ -52,3 +72,4 @@ React Native Basic project setup
 - [Publishing to Google Play Store](https://reactnative.dev/docs/signed-apk-android)
 - [Use our step-by-step guide to get started with Expo in minutes](https://expo.io/learn)
 - [Snack](https://snack.expo.io/)
+- [React Native Instructions](https://aka.ms/ReactNative)
