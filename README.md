@@ -13,6 +13,16 @@ React Native Basic project setup
 5) setup **expo** app from AppStore
 6) select **Tunnel** or **LAN** and scan QR code
 7) check result http://localhost:19002/ & on mobile
+
+    ```
+    INFO
+    11:21
+    Starting Metro Bundler on port 19001.
+    INFO
+    11:22
+    Tunnel ready.
+    ```
+
 8) stop the bundler => *Ctrl + C*
 
 
