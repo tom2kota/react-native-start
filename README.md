@@ -21,7 +21,19 @@ React Native Basic project setup
     INFO
     11:22
     Tunnel ready.
+    Info
+    11:39
+    Building JavaScript bundle: finished in 406ms.
     ```
+    
+    [http://localhost:19001/](http://localhost:19001/):
+    
+    ``` 
+    React Native packager is running.
+
+    Visit documentation
+    ```
+    
 
 8) stop the bundler => *Ctrl + C*
 
