@@ -73,3 +73,4 @@ npx --package react-native-cli react-native
 - [Use our step-by-step guide to get started with Expo in minutes](https://expo.io/learn)
 - [Snack](https://snack.expo.io/)
 - [React Native Instructions](https://aka.ms/ReactNative)
+- [React Native - Environment Setup](https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm)
