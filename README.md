@@ -84,3 +84,4 @@ npm run eject
 - [Snack](https://snack.expo.io/)
 - [React Native Instructions](https://aka.ms/ReactNative)
 - [React Native - Environment Setup](https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm)
+- [Commands](https://medium.com/unpacking-react-native/react-native-cli-8e17281a3d7d)
