@@ -85,3 +85,4 @@ npm run eject
 - [React Native Instructions](https://aka.ms/ReactNative)
 - [React Native - Environment Setup](https://www.tutorialspoint.com/react_native/react_native_environment_setup.htm)
 - [Commands](https://medium.com/unpacking-react-native/react-native-cli-8e17281a3d7d)
+- [Expo init](https://medium.com/@ralph1786/start-a-project-with-react-native-and-expo-cli-92df0fcf575c)
