@@ -15,7 +15,7 @@ expo login
 
 ```
 
-- [fb-watchma(https://www.npmjs.com/package/fb-watchman)
+- [fb-watchman](https://www.npmjs.com/package/fb-watchman)
 
 - [Installing on macOS or Linux via Homebrew](https://facebook.github.io/watchman/docs/install/#buildinstall)
 
